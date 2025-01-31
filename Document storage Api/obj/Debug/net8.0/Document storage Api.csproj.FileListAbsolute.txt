@@ -1,0 +1,39 @@
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\appsettings.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Document storage Api.staticwebassets.endpoints.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Document storage Api.exe
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Document storage Api.deps.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Document storage Api.runtimeconfig.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Document storage Api.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Document storage Api.pdb
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.csproj.AssemblyReference.cache
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.AssemblyInfoInputs.cache
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.AssemblyInfo.cs
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.csproj.CoreCompileInputs.cache
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\scopedcss\bundle\Document storage Api.styles.css
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets\msbuild.Document storage Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets\msbuild.Document storage Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Document storage Api.props
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Document storage Api.props
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Document storage Api.props
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document.8520C0C7.Up2Date
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\refint\Document storage Api.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.pdb
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\Document storage Api.genruntimeconfig.cache
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\obj\Debug\net8.0\ref\Document storage Api.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\MessagePack.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\MessagePack.Annotations.dll
+C:\Users\radov\Desktop\.net homework\Document storage Api\Document storage Api\bin\Debug\net8.0\Microsoft.NET.StringTools.dll

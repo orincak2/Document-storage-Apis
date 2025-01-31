@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "MyDocumentStorageApi.Controllers.DocumentsController",
+    "Method": "CreateDocument",
+    "RelativePath": "Documents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "oDocument",
+        "Type": "Document_storage_Api.Classes.MyDocument",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyDocumentStorageApi.Controllers.DocumentsController",
+    "Method": "GetDocument",
+    "RelativePath": "Documents/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Accept",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MyDocumentStorageApi.Controllers.DocumentsController",
+    "Method": "UpdateMyDocument",
+    "RelativePath": "Documents/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedMyDocument",
+        "Type": "Document_storage_Api.Classes.MyDocument",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

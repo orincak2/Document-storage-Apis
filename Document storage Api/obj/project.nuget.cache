@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "05m2H23sWvI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radov\\Desktop\\.net homework\\Document storage Api\\Document storage Api\\Document storage Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radov\\.nuget\\packages\\messagepack\\3.1.2\\messagepack.3.1.2.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\messagepack.annotations\\3.1.2\\messagepack.annotations.3.1.2.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\messagepackanalyzer\\3.1.2\\messagepackanalyzer.3.1.2.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\microsoft.net.stringtools\\17.11.4\\microsoft.net.stringtools.17.11.4.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\radov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
